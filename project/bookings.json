@@ -1,0 +1,27 @@
+[
+    {
+      "bookingId": 1,
+      "roomId": 101,
+      "guestId": 1,
+      "checkinDate": "2024-02-13",
+      "checkoutDate": "2024-02-15",
+      "status": "confirm"
+    },
+    {
+      "bookingId": 2,
+      "roomId": 102,
+      "guestId": 2,
+      "checkinDate": "2024-02-15",
+      "checkoutDate": "2024-02-17",
+      "status": "pending"
+    },
+    {
+      "bookingId": 3,
+      "roomId": 103,
+      "guestId": 3,
+      "checkinDate": "2024-02-18",
+      "checkoutDate": "2024-02-20",
+      "status": "confirm"
+    }
+  ]
+  
